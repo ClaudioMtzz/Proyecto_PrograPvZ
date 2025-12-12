@@ -1,7 +1,7 @@
 # Proyecto_PrograPvZ
 
 🎯 Objetivo del Juego
-El objetivo es evitar que loz zombis lleguen del otro lado del campo, colocando plantas que disparan y los retienen.
+El objetivo es evitar que loz zombis lleguen del otro lado del campo, colocando plantas que disparan y los retienen. Cada 40 segundos la dificultad incrementara para que preapres una buena defensa.
 🎮 Controles
 Lista los controles:
 
